@@ -2,7 +2,7 @@
 
 A chrome plugin to send you straight to jail.
 
-## Installation (while we get this in the chrome app store)
+## Installation
 
 1. Download/Clone the repo
 2. Go to Chrome and navigate to chrome://extensions
