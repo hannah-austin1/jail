@@ -1,6 +1,8 @@
 # Jail
 
-A chrome plugin to send you straight to jail.
+![Jail!](jailgif.gif)
+
+A chrome plugin to send you straight to jail (absolutely definitely not stolen from <https://github.com/jvagharia/elmo-chrome>)
 
 ## Installation
 
